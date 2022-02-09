@@ -1,7 +1,7 @@
 ### Olá, Alessandra Romero aqui 👋
 ---
 
-💻 Estagiária de Dedesnvolvimento de Software
+💻 Estagiária de Desenvolvimento de Software
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas - IFMS
 

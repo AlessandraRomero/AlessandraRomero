@@ -1,8 +1,6 @@
 ### Olá, Alessandra Romero aqui 👋
 ---
 
-💻 Estagiária de Desenvolvimento de Software na CI&T
-
 🎓 Cursando Análise e Desenvolvimento de Sistemas - IFMS
 
 <div align="">

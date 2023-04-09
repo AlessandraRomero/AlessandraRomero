@@ -1,7 +1,7 @@
 ### Olá, Alessandra Romero aqui 👋
 ---
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas - IFMS
+🎓 Formada em Análise e Desenvolvimento de Sistemas - IFMS
 
 <div align="">
   <a href="https://github.com/AlessandraRomero">

@@ -2,6 +2,7 @@
 ---
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas - IFMS
+🎓 Estudando Segurança da Informação
 
 <div align="">
   <a href="https://github.com/AlessandraRomero">
